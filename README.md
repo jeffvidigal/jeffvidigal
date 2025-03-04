@@ -1,4 +1,4 @@
-### me chamo jefferson marques, tenho 27 anos , natural do rio de janeiro, sou aluno de engenharia de software 5 semetre , 1 ano pra se forma , auto didatico sempre em busca de conhecimento , apaixona por tecnologia , e desenvolvimento pessoal !
+### eu me chamo jefferson marques, tenho 27 anos , natural do rio de janeiro, sou aluno de engenharia de software 5 semetre , 1 ano pra se forma , auto didatico sempre em busca de conhecimento , apaixona por tecnologia , e desenvolvimento pessoal !
 
    [![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefff_marques/)
    [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jeff.fera.39)
